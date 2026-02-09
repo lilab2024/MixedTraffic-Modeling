@@ -1,6 +1,6 @@
 # VIC-MixedTraffic-Modeling
 
-This repository contains Python code for simulating, calibrating, and analyzing the car-following behaviors of electric vehicles (EVs) and internal combustion engine (ICE) vehicles under adaptive cruise control (ACC). It supports a study submitted to *Transportation Research Part C: Emerging Technologies* for the Special Issue on "Vehicle-Infrastructure Cooperation for Next-Generation Transportation System." The code leverages high-fidelity trajectory datasets to model mixed traffic dynamics within a vehicle-infrastructure cooperation (VIC) framework, optimizing traffic flow stability and efficiency.
+This repository contains Python code for simulating, calibrating, and analyzing the car-following behaviors of electric vehicles (EVs) and internal combustion engine (ICE) vehicles under adaptive cruise control (ACC). 
 
 ## Project Overview
 
@@ -9,7 +9,6 @@ The code includes:
 - **Simulation**: Runs ring road traffic simulations to assess EV market penetration rates (MPR) on flow stability (Section~\ref{sec:mixed_traffic_simulation}).
 - **Analysis**: Performs statistical analysis and visualizations (e.g., heatmaps) to compare EV and ICE behaviors (Section~\ref{sec:data_analysis}).
 
-These tools support VIC by integrating V2I communication to enhance traffic optimization.
 
 ## Datasets
 
