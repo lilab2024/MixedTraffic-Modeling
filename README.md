@@ -1,4 +1,4 @@
-# VIC-MixedTraffic-Modeling
+# MixedTraffic-Modeling
 
 This repository contains Python code for simulating, calibrating, and analyzing the car-following behaviors of electric vehicles (EVs) and internal combustion engine (ICE) vehicles under adaptive cruise control (ACC). 
 
